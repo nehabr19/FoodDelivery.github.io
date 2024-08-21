@@ -34,4 +34,5 @@ I developed a food delivery application using Java that includes a signup and lo
 
 # Order confirmation:
 
-![image](https://github.com/user-attachments/assets/4e297aa8-bbfd-4468-9b9b-84c513177755)
+![image](https://github.com/user-attachments/assets/6f0e8ade-4c90-4da4-acfa-1a9d3b68294c)
+
